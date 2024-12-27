@@ -8,6 +8,11 @@ Hello, and welcome to my GitHub. My name is Guled Gedi, and I am an upcoming dat
 
 # Projects
 
+[**Charter School Analytics Dashboard**](https://github.com/GuledGedi/Charter-School-Analytics-Implementation)
+
+The project focused on modernizing a US charter school network's data analytics capabilities by transitioning from basic Google tracking to a comprehensive analytics system using Looker Studio, Python, SQL, and other tools. The implementation addressed key challenges including fragmented data sources, inefficient reporting, and poor data quality through the development of automated processes, standardized templates, and centralized analytics dashboards. This achieved significant improvements, including a 75% reduction in data entry time, 90% decrease in reporting errors, and enabled real-time student performance tracking, while providing stakeholders with user-friendly interfaces for accessing and analyzing student data.
+
+
 [**Video Game Sales**](https://github.com/GuledGedi/Video-Game-Sales) 
 
 The project aims to understand the decline in popularity of handheld video game consoles by comparing sales data between handheld and home gaming systems over a 30-year period (1985-2015). Using SAS regression analysis on variables like global sales, platform type, critic scores, and marketing priority, the research attempted to identify patterns that could explain the handheld market's decline and potentially predict if home consoles might follow a similar trajectory.
@@ -19,4 +24,7 @@ The project analyzes the impact of COVID-19 on global happiness and mental wellb
 
 
 [**Titanic Dataset Analysis**](https://github.com/GuledGedi/Data-Analysis-with-Python)
+
+The project involves a detailed analysis of the Titanic dataset, demonstrating advanced data analysis capabilities through Python programming and statistical methods. Using libraries like pandas, numpy, and matplotlib, the program implements comprehensive data cleaning, statistical analysis, and visualization techniques, including handling missing values, converting categorical variables, and creating various plots to analyze relationships between variables like age, fare, and passenger class. The analytical work shows technical proficiency in both programming and data science skills, implementing best practices in code structure and documentation while demonstrating practical solutions to real-world data challenges.
+
 
