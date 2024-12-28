@@ -6,6 +6,8 @@ Hello, and welcome to my GitHub. My name is Guled Gedi, and I am an upcoming dat
 
 [My LinkedIn](https://www.linkedin.com/in/guledgedi/)
 
+[My Resume](https://github.com/GuledGedi/Data-Analysis-Portfolio/blob/main/BaseResume.pdf)
+
 # Projects
 
 [**Charter School Analytics Dashboard**](https://github.com/GuledGedi/Charter-School-Analytics-Implementation)
