@@ -2,7 +2,7 @@
 
 Hello, and welcome to my GitHub. My name is Guled Gedi, and I am an upcoming data analyst with a Bachelor's in Neuroscience and a Minor in Statistics. I have recently completed my coursework for my Master's in Business Intelligence and Data Analytics. To bolster my analytical experience, I completed the Google Advanced Data Analyst Certification which introduced me to more complex concepts in the analytical world such as machine learning and stack overflow. I am passionate about uncovering meaningful patterns in data and creating impactful visualizations. With my background in scientific research along with combining technical expertise in Python, SQL, and machine learning accompanied by strong interpersonal skills, I have been able to produce informative and easy-to-approach understandings from data. I have compiled my work on this site to showcase my skills and abilities.
 
-[Google Advanced Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4LBZQKN874TX)
+[Google Advanced Data Analytics Certificate 2023](https://www.coursera.org/account/accomplishments/specialization/certificate/4LBZQKN874TX)
 
 [My LinkedIn](https://www.linkedin.com/in/guledgedi/)
 
